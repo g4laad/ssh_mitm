@@ -1,7 +1,6 @@
 from scapy.all import *
 from socket import *
 import os
-import re
 import sys
 import threading
 import sshmitm
